@@ -1,0 +1,61 @@
+baseURL: https://www.barkertrax.com/
+languageCode: en-gb
+title: 'Mark Barton'
+theme: 'PaperMod'
+
+params:
+  author: "Mark Barton"
+  description: "Audio technology, electronics, and ongoing projects..."
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  firstEntryAsLatest: false
+  disableSpecial1stPost: true
+  ShowLastMod: true
+  enableGitInfo: true
+
+  mainSections:
+    - notes
+    - projects
+    - articles
+    - links
+
+menu:
+  main:
+    - identifier: notes
+      name: Notes
+      url: /notes/
+      weight: 10
+
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 20
+
+    - identifier: articles
+      name: Articles
+      url: /articles/
+      weight: 30
+
+    - identifier: bookmarks
+      name: Bookmarks
+      url: /bookmarks/
+      weight: 40
+
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 50
+
+taxonomies:
+  tag: tags
+  category: categories
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
