@@ -23,6 +23,14 @@ params:
     - articles
     - links
 
+  socialIcons:
+    - name: instagram
+      url: "https://www.instagram.com/barkertrax/"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/mark-barton-b4282016/"
+    - name: github
+      url: "https://github.com/barkertrax"
+
 menu:
   main:
     - identifier: notes

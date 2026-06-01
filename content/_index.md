@@ -15,8 +15,8 @@ This site contains notes, project logs and occasional articles covering:
 
 ## Explore
 
-- [Projects](/projects/)
 - [Notes](/notes/)
+- [Projects](/projects/)
 - [Articles](/articles/)
 - [Bookmarks](/bookmarks/)
 - [About](/about/)
