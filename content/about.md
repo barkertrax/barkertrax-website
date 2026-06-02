@@ -48,4 +48,4 @@ I've found this lesson applies to pretty much everything: engineering, electroni
 
 ## More
 
-- [CV](/cv/)
+- [Experience](/experience/)

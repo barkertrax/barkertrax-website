@@ -18,12 +18,12 @@ ShowToc: true
 
 ## Goal
 
-* Every eorurack system needs at least one mixer, and I don't have one
-* Successfully order a PCB from an online supplier
-* If successful, I will have the KiCAD project, PCB and front panel as reference for my own projects moving forwards
+* Every eurorack system needs at least one mixer and I don't have any
+* Order a known good PCB from an online supplier
+* If successful, I will have the KiCAD project, PCB and front panel as reference for my own projects moving forwards and know who to order PCBs from
 
 ## Status
 
 Complete
 
-## Log
+## Progress

@@ -82,4 +82,4 @@ For posterity, I've uploaded my copy to the site. Download [here](/files/ROLAND_
 
 I have no recollection where I read about this, or how I knew how to do it, given that there was no internet and I only knew one other person in the world who owned a 101.
 
-Either way, the mod was done (a socket, a wire and a resistor) and from that day on I was able to sequence the 101's filter cutoff rather than relying on real-time movements at the point of recording. In those days, I was sequencing with Music-X running on an Amiga A500, sending CV through a Kenton Pro2.
+Either way, the mod was done (a socket, a wire and a resistor) and from that day on I was able to sequence the 101's filter cutoff rather than relying on real-time movements at the point of recording. In those days, I was sequencing with Music-X running on an Amiga A600, sending CV through a Kenton Pro2.
