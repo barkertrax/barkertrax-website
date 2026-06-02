@@ -34,6 +34,10 @@ One of the more significant projects in recent years involved driving my 1989 To
 
 The journey took my wife and me across deserts, mountains, border crossings and mechanical uncertainties, and remains one of the most rewarding experiences of my life.
 
+One of my favourite videos that we made on the trip - shot in Kyrgystan.
+{{< vimeo 188781479 >}}
+
+
 The full story is documented over on [our blog](https://www.fromewardbound.co.uk).
 
 ### Skateboarding
