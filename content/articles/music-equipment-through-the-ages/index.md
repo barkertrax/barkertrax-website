@@ -13,15 +13,15 @@ project_status: active
 
 ShowToc: true
 ---
-I was talking to my good friend Steve a few years back about the act of buying and selling of gear. His preference is to keep the synths he's bought through the years, whilst I seem to have always been buying and selling.
+I was talking to a good friend a few years back about the act of buying and selling of gear. His preference has been to keep the synths he's bought through the years, whilst I seem to have always been buying and selling.
 
 On the back of that conversation we both made our own versions of this list - mine was longer, of course.
 
 I've since kept my version up to date and thought it would be fun to share here.
 
-On the one hand, buying and selling has meant I've had the pleasure of experiencing many instruments, but on the other I weep a small tear when read about some of the pieces I no longer own. Either way, the list is pretty much a series of memory triggers for so many happy events throughout my life.
+On the one hand, buying and selling has meant I've had the pleasure of experiencing many instruments, but on the other I weep a small tear when I remember some of the pieces I no longer own. Either way, the list is pretty much a series of memory triggers for so many happy events throughout my life.
 
-One stand out is how so many software purchases I've made are now unusable.
+One stand out is how many software purchases I've made are now totally unusable.
 
 ## Frome Era : 2026
 

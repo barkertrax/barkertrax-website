@@ -2,7 +2,7 @@
 title: "Building Mutable Instruments' Ripples Filter"
 date: 2015-06-05
 
-summary: "Build log for Mutable Instruments' Braids Ripples Filter."
+summary: "Build log for Mutable Instruments' Ripples Filter."
 
 tags:
   - eurorack

@@ -38,7 +38,7 @@ One of my favourite videos that we made on the trip - shot in Kyrgystan.
 {{< vimeo 188781479 >}}
 
 
-The full story is documented over on [our blog](https://www.fromewardbound.co.uk).
+The full story is documented over on [our blog.](https://www.fromewardbound.co.uk)
 
 ### Skateboarding
 
