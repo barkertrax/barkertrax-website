@@ -40,7 +40,7 @@ As I write this, we're approaching the finish line. It's been challenging, occas
 
 ### Fromeward Bound
 
-One of the more significant projects in recent years involved driving my 1989 Toyota Land Cruiser from Japan to the United Kingdom after spending five years living in Japan.
+Another significant projects from recent years involved driving my 1989 Toyota Land Cruiser from Japan to the United Kingdom after spending five years living in Japan.
 
 The journey took my wife and me across deserts, mountains, border crossings and mechanical uncertainties, and remains one of the most rewarding experiences of my life.
 
