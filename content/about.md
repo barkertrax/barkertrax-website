@@ -26,15 +26,25 @@ I value craftsmanship, enjoy understanding how things work and love the process 
 
 ## My Weekends
 
-Beyond the scope of the site, I have a few other interests going on.
+Beyond the scope of the site, I have a few other projects and interests going on.
 
-### Overlanding
+### Home Remodel
+
+The largest project I've undertaken in recent years wasn't related to audio technology at all.
+
+In 2020, my wife and I began a major renovation of our bungalow. The project involved removing the roof, demolishing a significant portion of the existing building and constructing a modernist home around what remained.
+
+While specialist contractors handled the major structural work, all of the project management, planning, decision-making and finishing work fell to us. Having tackled smaller building projects previously, we knew what we were in for, but the scale of this one really pushed us. It wasn't so much the energy required as having to sustain that for the multiple years that the project has taken.
+
+As I write this, we're approaching the finish line. It's been challenging, occasionally exhausting and hugely rewarding. More than anything, it's taught me that large projects are usually completed in exactly the same way as small ones: by keeping going, one problem at a time.
+
+### Fromeward Bound
 
 One of the more significant projects in recent years involved driving my 1989 Toyota Land Cruiser from Japan to the United Kingdom after spending five years living in Japan.
 
 The journey took my wife and me across deserts, mountains, border crossings and mechanical uncertainties, and remains one of the most rewarding experiences of my life.
 
-One of my favourite videos that we made on the trip - shot in Kyrgystan.
+One of my favourite videos we made on the trip - shot in Kyrgystan.
 {{< vimeo 188781479 >}}
 
 

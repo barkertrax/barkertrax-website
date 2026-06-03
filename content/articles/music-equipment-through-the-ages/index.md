@@ -13,13 +13,13 @@ project_status: active
 
 ShowToc: true
 ---
-I was talking to a good friend a few years back about the act of buying and selling of gear. His preference has been to keep the synths he's bought through the years, whilst I seem to have always been buying and selling.
+I was talking to a good friend a few years back about the act of buying and selling of gear. His preference has been to keep every synth he's ever bought through the years, whilst I seem to have always been buying and selling.
 
 On the back of that conversation we both made our own versions of this list - mine was longer, of course.
 
 I've since kept my version up to date and thought it would be fun to share here.
 
-On the one hand, buying and selling has meant I've had the pleasure of experiencing many instruments, but on the other I weep a small tear when I remember some of the pieces I no longer own. Either way, the list is pretty much a series of memory triggers for so many happy events throughout my life.
+On the one hand, buying and selling has meant I've had the pleasure of experiencing many instruments, but on the other I weep a small tear of remose when I remember some of the pieces I used to own. Either way, the list is pretty much a series of memory triggers for so many happy events throughout my life.
 
 One stand out is how many software purchases I've made are now totally unusable.
 
@@ -34,9 +34,9 @@ One stand out is how many software purchases I've made are now totally unusable.
 
 ## Japan Era : 2015
 
-- Elektron Analog Keys 4 Keyboard : still owned
-- Korg Volca Drum : still owned
-- Korg DDD5 : still owned
+- Elektron Analog Keys synth : still owned
+- Korg Volca Drums drum machine : still owned
+- Korg DDD5 drum machine : still owned
 - Mutable Instruments Braids x2 (DIY) : still owned
 - Mutable Instruments Ripples x2 (DIY) : still owned
 - Eurorack active multiple x2 (DIY) : still owned
