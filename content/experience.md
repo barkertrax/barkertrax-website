@@ -31,14 +31,14 @@ I'm particularly interested in helping organisations develop audio products, sol
 
 ## Experience
 
-### DTS
+### DTS / Xperi
 **Senior Manager** · 2023–Present
 
 - Lead two software development teams responsible for audio technologies used by major PC manufacturers.
 - Work with product managers and technical leads to define priorities and delivery plans.
 - Created dedicated discovery time for engineers to experiment with new ideas and technologies.
 
-### DTS
+### DTS / Xperi
 **Staff Software Engineer** · 2019–2023
 
 - Provided technical leadership for audio post-processing technologies deployed on consumer PC platforms.
@@ -101,7 +101,7 @@ Key areas:
 
 ## Personal Projects
 
-### Barkertrax
+### Barkertrax.com
 
 Articles and project documentation covering:
 
@@ -111,6 +111,8 @@ Articles and project documentation covering:
 - Repair
 - Engineering projects
 
-### Frome Ward Bound
+### Fromeward Bound
 
 Documentation of a 25,000 km overland journey from Japan to the United Kingdom in a 1989 Toyota Land Cruiser.
+
+[A PDF version is available for download](/files/MarkBarton_CV_v1_17.pdf)

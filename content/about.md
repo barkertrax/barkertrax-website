@@ -40,7 +40,7 @@ As I write this, we're approaching the finish line. It's been challenging, occas
 
 ### Fromeward Bound
 
-Another significant projects from recent years involved driving my 1989 Toyota Land Cruiser from Japan to the United Kingdom after spending five years living in Japan.
+Another significant project from recent years involved driving my 1989 Toyota Land Cruiser from Japan to the United Kingdom after spending five years living in Japan.
 
 The journey took my wife and me across deserts, mountains, border crossings and mechanical uncertainties, and remains one of the most rewarding experiences of my life.
 
@@ -59,7 +59,7 @@ Although I rarely skate these days, I continue to follow it closely and dust off
 The central lesson skateboarding taught me is the importance of perspective. Concrete steps, curbs, banks and ledges look different when viewed through the eyes of a skateboarder.
 
 I've found this lesson applies to pretty much everything: engineering, electronics, repair and life in general.
-
+  
 ## More
 
 - [Experience](/experience/)
