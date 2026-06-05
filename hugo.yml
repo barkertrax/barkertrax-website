@@ -72,3 +72,11 @@ outputs:
     - HTML
     - RSS
     - JSON
+
+frontmatter:
+  lastmod:
+    - :git
+    - lastmod
+    - modified
+    - date
+    - publishDate
