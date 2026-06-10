@@ -2,7 +2,7 @@
 title: "World Radio History"
 date: 2026-06-05
 
-summary: "An Aladdin's cave of electronics books"
+summary: "An Aladdin's cave of electronics books."
 
 tags:
   - electronics
