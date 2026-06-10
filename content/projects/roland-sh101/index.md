@@ -29,17 +29,17 @@ Keep the old girl alive and kicking!
 
 Let's rewind - how did I get to own this synth and why do I love it so much?
 
-
+Coming soon....
 
 ## Log
 
 ### 2026-03-01 Filter Cutoff Closed Unless ENV slider is turned up
 
-
+Coming soon....
 
 ### 2025-09-01 Power Switch Replacement
 
-
+Coming soon....
 
 ### 2025-08-01 Resonance Issue
 
