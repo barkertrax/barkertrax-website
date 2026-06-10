@@ -57,5 +57,3 @@ A few highlights that are close to my heart:
 
 
 I didn't manage to find the exact book yet, but there was one Penfold title that contained a MIDI-to-CV converter project. I never built it, despite wanting to, but it was where I first learned about opto-isolators, UARTs and how MIDI data is serialised onto a cable. All very cool for a couple of pages in a £2 paperback.
-
-And, of course, god bless [Dave Smith](https://en.wikipedia.org/wiki/Dave_Smith_(engineer)).
