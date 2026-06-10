@@ -11,7 +11,7 @@ ShowToc: false
 ---
 When writing [this short essay](/articles/why-i-diy-my-eurorack-system/) I wanted to include some images of the old R.A. Penfold books. In the process, I came across [World Radio History](https://www.worldradiohistory.com/) for the first time.
 
-Despite looking like the kind of website that might only function in Netscape Navigator to function (or perhaps because of it), it's a full-on treasure trove of resources.
+Despite looking like the kind of website that might only function in Netscape Navigator (or perhaps because of it), it's a full-on treasure trove of resources.
 
 A few highlights that are close to my heart:
 
