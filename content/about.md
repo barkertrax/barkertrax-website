@@ -10,7 +10,7 @@ I work for DTS, creating audio post-processing technology for PC laptops — mak
 
 My background is in audio software engineering, having worked across areas including DSP, games audio and mobile applications. In recent years I've moved into engineering leadership, where I currently lead two development teams. Learning how to help other people succeed has been a rewarding challenge and has given me an entirely new perspective on the industry.
 
-A more complete list of my [experience](/experience/) can be found elsewhere on the site.
+A more formal list of my [experience](/experience/) can be found elsewhere on the site.
 
 ## My Evenings
 
@@ -60,6 +60,6 @@ The central lesson skateboarding taught me is the importance of perspective. Con
 
 I've found this lesson applies to pretty much everything: engineering, electronics, repair and life in general.
   
-## More
+## My Formal CV
 
 - [Experience](/experience/)

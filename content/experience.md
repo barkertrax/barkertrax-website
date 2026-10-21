@@ -4,115 +4,69 @@ title: "Experience"
 
 # Mark Barton
 
-## Audio Software Engineer & Engineering Leader
-
-25+ years in audio software development, games audio, DSP and consumer audio.
+## C++ Software Engineer & Technical Leader · Audio Systems · DSP
 
 - Email: barkertrax@gmail.com
 - Website: https://www.barkertrax.com
 - LinkedIn: https://www.linkedin.com/in/mark-barton-b4282016
 
-## Professional Summary
+C++ software engineer and technical leader with 25+ years’ experience developing real-time audio software, DSP and cross-platform systems. 
 
-I've spent more than 25 years developing audio software and DSP solutions across games, mobile applications, consumer electronics and PC platforms.
+Combines hands-on implementation and debugging with architectural direction and engineering leadership, spanning consumer electronics, gaming and PC audio.
 
-My background combines hands-on engineering with engineering leadership, having led multiple software teams while remaining closely involved in product development and technical direction.
+## Technical Skills
 
-I'm particularly interested in helping organisations develop audio products, solve difficult technical problems and build effective engineering teams.
+-  Languages: C++, C, C#, Python
+-  Audio: DSP algorithms, cross-platform audio SDKs
+-  Audio platforms: Windows Audio Processing Objects, Sound Open Firmware, SoC
+DSP integration, VST3
+-  Platforms: Windows, macOS, iOS, Android, ChromeOS, Linux
 
-## What I Do
+## Professional Experience
 
-- Develop audio products and technologies
-- Solve complex DSP and software engineering problems
-- Build and mentor engineering teams
-- Define technical direction for software projects
-- Balance long-term vision against short-term commitments
-- Consistently bring audio products from development through release
+**DTS / Xperi** | Senior Manager, PC Audio
+2023 to Present
+-  Own the implementation and evolution of a scalable PC audio architecture spanning SoC-based DSP processing, Windows Audio Processing Objects and end-user applications.
+-  Continue hands-on development in the production C++ codebase, implementing and debugging audio software as part of ongoing architectural development.
+-  Lead two UK-based teams, with responsibility for the development and performance management of four direct reports and leadership of three indirect reports.
+-  Encourage practical adoption of AI-assisted development and a team-specific AI skills framework aligned with the codebase, engineering workflows and CI.
 
-## Experience
+**DTS / Xperi** | Staff Software Engineer, PC Audio
+2019 to 2023
+-  Provided technical leadership for audio post-processing technologies deployed on consumer PC platforms.
+-  Developed an XML-driven system for defining audio processing modules and automatically generating C++ implementations, tests and VST3 components, improving consistency and reducing repetitive development work.
+-  Consolidated multiple continuous integration systems into a unified CI system supporting the end-to-end PC software ecosystem.
+-  Implemented DSP algorithms and audio processing SDKs across PC, macOS, iOS and Android, including integration with DSP platforms from Intel, AMD and NVIDIA.
+-  Primary developer of a ChromeOS post-processing solution integrating via Sound Open Firmware (SOF), working across kernel-facing and DSP-facing interfaces on Intel, AMD and MediaTek SoCs. The solution shipped via ChromeOS updates using Google’s standard release mechanisms.
 
-### DTS / Xperi
-**Senior Manager** · 2023–Present
+**Electric Square** | Audio Programmer
+2017 to 2019
+-  Primary Audio Programmer on Forza Street and Hot Wheels ID.
 
-- Lead two software development teams responsible for audio technologies used by major PC manufacturers.
-- Work with product managers and technical leads to define priorities and delivery plans.
-- Created dedicated discovery time for engineers to experiment with new ideas and technologies.
+**Mytrax** | Audio Programmer
+2014 to 2016
+-  Worked on IntraWave, using high-frequency audio signals for indoor positioning.
+-  Developed and shipped an iOS and Android application that applied the audio characteristics of Japanese live venues to a music library in real time.
 
-### DTS / Xperi
-**Staff Software Engineer** · 2019–2023
+## Selected Earlier Engineering Experience
 
-- Provided technical leadership for audio post-processing technologies deployed on consumer PC platforms.
-- Designed and implemented DSP and software solutions for major OEM customers.
-- Worked with product, DSP and software teams to deliver commercial audio features.
-- Provided technical guidance and mentoring to other engineers.
-
-### Electric Square
-**Audio Programmer** · 2017–2019
-
-- Primary Audio Programmer on *Forza Street* and *Hot Wheels ID*.
-
-### Mytrax
-**Audio Programmer** · 2014–2016
-
-- Worked on the IntraWave project, using high-frequency audio signals for high-precision indoor positioning.
-- Helped develop a mobile application that applied the acoustic characteristics of Japanese live music venues to personal music libraries in real time.
-
-### Tsugi Studio
-**Audio Programmer** · 2011–2014
-
-- Developed Tsugi AudioBot and Tsugi QuickAudio, taking both products from development through commercial release.
-
-### Earlier Career
-
-Software and audio technology roles at:
-
-- Sony Interactive Entertainment
-- Datamine
-- Pivotal Games
-- Radiodetection
-- ERG Transit Systems
-- Digital Studio Processing
-- Sony Broadcast & Professional
+-  **Sony Computer Entertainment**: Implemented a real-time procedural audio
+synthesis system for PlayStation 3, targeting both the PPU and SPU.
+-  **Pivotal Games**: Designed a dynamic audio environment system for games and developed a cross-platform C++ Voice over IP library for online multiplayer. Worked on multiple commercially successful, multi-platform game releases.
+-  **Tsugi Studio**: Developed a C++/CLI library for hosting VST-compatible audio plugins, audio processing tools and a .NET library supporting multiple audio formats.
 
 ## Education
 
-### Leeds Beckett University
+**BEng Electronics, Music and Media Technology, First Class Honours**
+Leeds Beckett University
 
-**BEng Electronics, Music and Media Technology**  
-First Class Honours
-
-Key areas:
-
-- Electronics
-- Digital Signal Processing
-- Music Theory
-- Industrial placement year in Malaysia
-
-### London Metropolitan University
-
-**Certificate of Higher Education, Music Technology**  
-Distinction
-
-Key areas:
-
-- Electronics
-- Recording
-- Woodworking
+**Certificate of Higher Education, Music Technology, Distinction**
+London Metropolitan University
 
 ## Personal Projects
 
-### Barkertrax.com
+-  [fromewardbound.co.uk](https://fromewardbound.co.uk): Documentation of a 25,000 km overland journey from Japan to the UK in a 1989 Toyota Land Cruiser.
+-  [barkertrax.com](https://www.barkertrax.com): Nascent website documenting ongoing personal projects.
+-  Home renovation: Major renovation of a 1970s bungalow, including substantial demolition and the construction of a modernist home around the retained structure.
 
-Articles and project documentation covering:
-
-- Audio technology
-- Synthesisers
-- Electronics
-- Repair
-- Engineering projects
-
-### Fromeward Bound
-
-Documentation of a 25,000 km overland journey from Japan to the United Kingdom in a 1989 Toyota Land Cruiser.
-
-[A PDF version is available for download](/files/MarkBarton_CV_v1_17.pdf)
+[A PDF version is available for download](/files/Mark_Barton_CV_v1_18_Other.pdf)
